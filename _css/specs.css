@@ -12,7 +12,3 @@ iframe#framespec{
     border: none;
     overflow: hidden;
 }
-
-iframe#framespec::-webkit-scrollbar{    
-    display: none;
-}
